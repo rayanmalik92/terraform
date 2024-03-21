@@ -20,4 +20,4 @@ resource "aws_instance" "Amazon-linux-instance-3" {
   tags = {
     name = "New-jenkins-server-2-2"
   }
-
+}
